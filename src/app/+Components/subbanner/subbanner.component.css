@@ -1,0 +1,64 @@
+#search {
+    position: relative;
+    margin-top: 1vw;
+    margin-left: 1vw;
+}
+
+#searchtext {
+    background-color: rgb(228, 228, 228);
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 2em;
+    width: 30vw;
+    height: 6vh;
+    font-size: small;
+
+}
+
+#picsearch {
+    position: absolute;
+    top: 1vh;
+    left: 27vw;
+    width: 2vw;
+    height: 4vh;
+}
+
+#logoikea {
+    position: absolute;
+    left: 3vw;
+    top: 20vh;
+    width: 15vw;
+    height: 10vh;
+}
+
+#icon {
+    position: absolute;
+    top: 11vh;
+    right: 1vw;
+}
+
+#picicon1 {
+    margin-right: 2vw;
+    width: 3vw;
+    height: 4vh;
+}
+
+#picicon2 {
+    margin-right: 1vw;
+    width: 2vw;
+    height: 4vh;
+}
+
+#picicon3 {
+    margin-right: 1vw;
+    width: 4vw;
+    height: 4vh;
+}
+
+
+#Welcome {
+    position: absolute;
+    top: 11vh;
+    margin-left: 35vw;
+    color: black;
+    font-size: xx-large;
+}

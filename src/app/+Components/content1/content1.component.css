@@ -1,0 +1,143 @@
+#newproduct {
+    position: relative;
+    margin-top: 42vw;
+    margin-left: 3vw;
+    font-size: xx-large;
+}
+
+#picproduct1 {
+    position: relative;
+    margin-top: 1vw;
+    width: 15vw;
+    height: 30vh;
+    padding: 3em;
+}
+
+#Topseller1 {
+    position: absolute;
+    display: inline-block;
+    top: 56vw;
+    left: 3vw;
+    padding: 1em;
+    background-color: rgb(240, 28, 116);
+    width: 6vw;
+    height: 0.5vh;
+    color: rgb(255, 255, 255);
+}
+
+#Topseller2 {
+    position: absolute;
+    display: inline-block;
+    top: 56vw;
+    left: 24vw;
+    padding: 1em;
+    background-color: rgb(240, 28, 116);
+    width: 6vw;
+    height: 0.5vh;
+    color: rgb(255, 255, 255);
+}
+
+#Topseller3 {
+    position: absolute;
+    display: inline-block;
+    top: 56vw;
+    left: 48vw;
+    padding: 1em;
+    background-color: rgb(240, 28, 116);
+    width: 6vm;
+    height: 0.5vh;
+    color: rgb(255, 255, 255);
+}
+
+#Topseller4 {
+    position: absolute;
+    display: inline-block;
+    top: 56vw;
+    left: 70vw;
+    padding: 1em;
+    background-color: rgb(240, 28, 116);
+    width: 6vw;
+    height: 0.5vh;
+    color: rgb(255, 255, 255);
+}
+
+#picproduct2 {
+    position: relative;
+    margin-top: 1vw;
+    width: 15vw;
+    height: 30vh;
+    padding: 3em;
+}
+
+#picproducthover2 {
+
+    position: absolute;
+    top: 52.5vw;
+    left: 22.5vw;
+    width: 15w;
+    height: 40vh;
+    padding: 3em;
+}
+
+#picproducthover2:hover {
+    display: none;
+}
+
+#picproduct3 {
+    position: relative;
+    margin-top: 1vw;
+    width: 17vw;
+    height: 25vh;
+    padding: 3em;
+}
+
+#picproducthover3 {
+
+    position: absolute;
+    top: 52.5vw;
+    left: 44.5vw;
+    width: 20vw;
+    height: 40vh;
+    padding: 3em;
+}
+
+#picproducthover3:hover {
+    display: none;
+}
+
+#picproducthover1:hover {
+    display: none;
+
+}
+
+#picproducthover1 {
+    position: absolute;
+    top: 52.5vw;
+    left: 0;
+    width: 15w;
+    height: 40vh;
+    padding: 3em;
+}
+
+#picproduct4 {
+    position: relative;
+    margin-top: 1vw;
+    width: 15vw;
+    height: 37vh;
+    padding: 3em;
+
+}
+
+#picproducthover4 {
+
+    position: absolute;
+    top: 52.5vw;
+    left: 68vw;
+    width: 20vw;
+    height: 40vh;
+    padding: 3em;
+}
+
+#picproducthover4:hover {
+    display: none;
+}
