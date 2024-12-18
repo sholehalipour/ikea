@@ -1,6 +1,6 @@
 @font-face {
     font-family: ikea;
-    src: url(/public/fonts/ikea.woff2);
+    src: url('/public/fonts/ikea.woff2');
 }
 
 * {

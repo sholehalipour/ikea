@@ -60,7 +60,13 @@
     border: 1px solid rgb(255, 255, 255);
     border-radius: 2cap;
 }
-
+#img23{
+    position: absolute;
+    top: 40vh;
+    left: 43vw;
+    width: 10vw;
+    border-radius: 2cap;
+}
 #flowerprice {
     position: absolute;
     top: 59vh;
